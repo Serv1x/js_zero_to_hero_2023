@@ -77,6 +77,8 @@ document.querySelector('.again').addEventListener('click', function () {
   
 });
 
+console.log("Git test");
+
 
 /*document.querySelector('.check').addEventListener('click', function () {
     Need condition whgere no value entered.
